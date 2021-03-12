@@ -1,0 +1,40 @@
+
+
+    API                             input                       Output
+
+ sheduleAppointment                email                       "status"
+                                   doctorName                  "imgURL",
+                                   patientName                 "specialization",
+                                   date                        "address"
+                                   time
+                                   phone
+                                   InsuranceProvider
+                                   MemberID
+                                   GropuID                   
+ 
+ 
+ listAppointments                  email                          "email"
+                                                                 "id"
+                                                                 "doctorName"
+                                                                 "specialization"
+                                                                 "date"
+                                                                 "time"
+                                                                 "address" 
+                                                                 "imageURL" 
+
+deleteAppointment                   id                          "true"/"false"
+
+
+updateAppointment                   id                             "true"/false
+                                    date
+                                    time
+
+
+
+
+
+
+                                      ,
+                                                            
+                                                            
+                                                            
