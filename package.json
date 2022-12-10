@@ -11,7 +11,7 @@
   "dependencies": {
     "convert-time": "^0.3.0",
     "date-and-time": "^0.6.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hour-convert": "^1.0.1",
     "mongodb": "^3.1.10",
     "nexmo": "^2.4.1",
